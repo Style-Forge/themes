@@ -1,0 +1,24 @@
+{
+  "name": "style-forge.themes",
+  "version": "1.0.0",
+  "description": "Themes CSS for style-forge",
+  "type": "module",
+  "main": "themes.css",
+  "repository": "github:sarmaged/style-forge.themes",
+  "author": "Sarmaged <sarmaged@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "style-forge.themes",
+    "themes",
+    "css"
+  ],
+  "scripts": {
+    "build": "node builder.js",
+    "prepublishOnly": "yarn build"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.23",
+    "postcss-import": "^15.1.0",
+    "postcss-minify": "^1.1.0"
+  }
+}
