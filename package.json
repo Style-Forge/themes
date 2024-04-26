@@ -1,6 +1,6 @@
 {
   "name": "style-forge.themes",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Themes CSS for style-forge",
   "type": "module",
   "main": "themes.css",
