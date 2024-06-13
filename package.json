@@ -6,7 +6,7 @@
   "main": "themes.css",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sarmaged/style-forge.base.git"
+    "url": "git+https://github.com/sarmaged/style-forge.themes.git"
   },
   "author": "Sarmaged <sarmaged@gmail.com>",
   "license": "MIT",
