@@ -1,24 +1,46 @@
 {
   "name": "style-forge.themes",
   "version": "1.0.5",
-  "description": "Themes CSS for style-forge",
+  "description": "Style Forge Themes package is a powerful and flexible tool designed for managing and applying themes to your web applications. It provides a streamlined way to handle theme customization, allowing developers to create, switch, and maintain multiple themes effortlessly.",
   "type": "module",
   "main": "themes.css",
-  "repository": "github:sarmaged/style-forge.themes",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarmaged/style-forge.base.git"
+  },
   "author": "Sarmaged <sarmaged@gmail.com>",
   "license": "MIT",
   "keywords": [
-    "style-forge.themes",
     "themes",
-    "css"
+    "theming",
+    "style",
+    "CSS-in-JS",
+    "theme management",
+    "theme switching",
+    "customizable themes",
+    "design",
+    "UI",
+    "web development",
+    "frontend",
+    "CSS",
+    "JavaScript",
+    "react",
+    "style-forge",
+    "dynamic themes"
   ],
   "scripts": {
-    "build": "node builder.js",
-    "prepublishOnly": "yarn build"
+    "build": "node builder.js"
   },
   "devDependencies": {
     "postcss": "^8.4.23",
     "postcss-import": "^15.1.0",
     "postcss-minify": "^1.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/sarmaged/style-forge.themes/issues"
+  },
+  "homepage": "https://github.com/sarmaged/style-forge.themes#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   }
 }
