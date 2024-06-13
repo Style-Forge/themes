@@ -11,22 +11,23 @@
   "author": "Sarmaged <sarmaged@gmail.com>",
   "license": "MIT",
   "keywords": [
+    "style-forge",
     "themes",
     "theming",
-    "style",
+    "CSS",
     "CSS-in-JS",
     "theme management",
     "theme switching",
     "customizable themes",
-    "design",
-    "UI",
+    "dynamic themes",
     "web development",
     "frontend",
-    "CSS",
+    "UI",
+    "design",
+    "style",
     "JavaScript",
     "react",
-    "style-forge",
-    "dynamic themes"
+    "vue"
   ],
   "scripts": {
     "build": "node builder.js"

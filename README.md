@@ -27,13 +27,13 @@ yarn add style-forge.themes
 After installation, you can import the CSS file into your project:
 
 ```css
-@import "style-forge.base";
+@import "style-forge.themes";
 ```
 
 Or, if you are using Webpack or another module bundler:
 
 ```js
-import 'style-forge.base';
+import 'style-forge.themes';
 ```
 
 ⚠️ Skip this if you don't need to specify a color scheme. The default will always be a light theme.

@@ -51,5 +51,3 @@ If you find a bug or have a feature request, please open an issue on GitHub. Pro
 - Follow the project's code of conduct.
 
 Thank you for your contributions!
-
-The style-forge.themes Team
