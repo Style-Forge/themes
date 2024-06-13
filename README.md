@@ -8,7 +8,7 @@
 
 ## Description
 
-Style Forge Base is a base CSS package for Style Forge, providing foundational styles and variables for web development. It includes default font settings, sizes for various heading levels, and color definitions using HSL.
+Style-Forge.Themes package is a powerful and flexible tool designed for managing and applying themes to your web applications. It provides a streamlined way to handle theme customization, allowing developers to create, switch, and maintain multiple themes effortlessly.
 
 ## Installation
 
