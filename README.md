@@ -6,49 +6,11 @@
 ![license](https://img.shields.io/npm/l/style-forge.themes)
 ![build](https://github.com/Sarmaged/style-forge.themes/actions/workflows/publish.yml/badge.svg)
 
-## Description
-
 `Style-Forge.Themes` package is a powerful and flexible tool designed for managing and applying themes to your web applications. It provides a streamlined way to handle theme customization, allowing developers to create, switch, and maintain multiple themes effortlessly.
 
-## Installation
+## Description
 
-You can install the package via npm or yarn:
-
-```bash
-npm install style-forge.themes
-```
-
-```bash
-yarn add style-forge.themes
-```
-
-## Usage
-
-After installation, you can import the CSS file into your project:
-
-```css
-@import "style-forge.themes";
-```
-
-Or, if you are using Webpack or another module bundler:
-
-```js
-import 'style-forge.themes';
-```
-
-⚠️ Skip this if you don't need to specify a color scheme. The default will always be a light theme.
-
-There are three standard modes `dark / light / auto (system)`
-
-`auto` - this is the system color theme selection
-
-```html
-  <html ... data-theme="auto">
-  or
-  <html ... data-theme="dark">
-  or
-  <html ... data-theme="light">
-```
+To check out docs, visit [style-forge.dev](https://style-forge.dev/themes/)
 
 ## Contributing
 
