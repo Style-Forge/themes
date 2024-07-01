@@ -1,7 +1,7 @@
 {
   "name": "style-forge.themes",
   "version": "1.0.10",
-  "description": "Style-Forge.Themes package is a powerful and flexible tool designed for managing and applying themes to your web applications. It provides a streamlined way to handle theme customization, allowing developers to create, switch, and maintain multiple themes effortlessly",
+  "description": "Style-Forge.Themes: powerful tool for managing and applying customizable themes in web applications.",
   "type": "module",
   "main": "themes.css",
   "repository": {
