@@ -32,11 +32,11 @@
   transition: background-color 0.2s ease-out;
 }
 
-[data-theme='auto'] {
+:root:where([data-theme='auto'], .auto) {
   color-scheme: light dark;
 }
 
-:root[data-theme='dark'] {
+:root:where([data-theme='dark'], .dark) {
   color-scheme: dark;
 
   --sf-c-link: var(--sf-dark-c-link);
@@ -49,10 +49,10 @@
   --sf-c-txt: var(--sf-dark-c-txt);
 }
 
-:root[data-theme='dark'] ::backdrop { --sf-c-backdrop: var(--sf-dark-c-backdrop) }
+:root:where([data-theme='dark'], .dark) ::backdrop { --sf-c-backdrop: var(--sf-dark-c-backdrop) }
 
 @media (prefers-color-scheme: dark) {
-  :root[data-theme='auto'] {
+  :root:where([data-theme='auto'], .auto) {
     color-scheme: dark;
 
     --sf-c-link: var(--sf-dark-c-link);
@@ -65,5 +65,5 @@
     --sf-c-txt: var(--sf-dark-c-txt);
   }
 
-  :root[data-theme='auto'] ::backdrop { --sf-c-backdrop: var(--sf-dark-c-backdrop) }
+  :root:where([data-theme='auto'], .auto) ::backdrop { --sf-c-backdrop: var(--sf-dark-c-backdrop) }
 }
