@@ -2,8 +2,9 @@
 # Style-Forge.Themes
 
 ![npm](https://img.shields.io/npm/v/style-forge.themes)
-![npm](https://img.shields.io/npm/dm/style-forge.themes)
 ![license](https://img.shields.io/npm/l/style-forge.themes)
+![npm](https://img.shields.io/npm/dm/style-forge.themes)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/de14604fdf364dccb2a2194a5b36e3c5)](https://app.codacy.com/gh/Sarmaged/style-forge.themes/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 ![build](https://github.com/Sarmaged/style-forge.themes/actions/workflows/publish.yml/badge.svg)
 
 `Style-Forge.Themes` package is a powerful and flexible tool designed for managing and applying themes to your web applications. It provides a streamlined way to handle theme customization, allowing developers to create, switch, and maintain multiple themes effortlessly.
