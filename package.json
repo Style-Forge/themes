@@ -6,9 +6,9 @@
   "main": "themes.css",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sarmaged/style-forge.themes.git"
+    "url": "git+https://github.com/Style-Forge/themes.git"
   },
-  "author": "Sarmaged <sarmaged@gmail.com>",
+  "author": "Dmitrii Sagalov <sarmaged@gmail.com>",
   "license": "MIT",
   "keywords": [
     "style-forge",
@@ -38,9 +38,9 @@
     "postcss-minify": "^1.1.0"
   },
   "bugs": {
-    "url": "https://github.com/sarmaged/style-forge.themes/issues"
+    "url": "https://github.com/Style-Forge/themes/issues"
   },
-  "homepage": "https://github.com/sarmaged/style-forge.themes#readme",
+  "homepage": "https://style-forge.dev/themes/",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   }
