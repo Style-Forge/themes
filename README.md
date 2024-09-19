@@ -9,25 +9,15 @@
 
 `Style-Forge.Themes` package is a powerful and flexible tool designed for managing and applying themes to your web applications. It provides a streamlined way to handle theme customization, allowing developers to create, switch, and maintain multiple themes effortlessly.
 
-## Description
+## Documentation
 
-To check out docs, visit [style-forge.dev](https://style-forge.dev/themes/)
+To check out docs, visit [style-forge.github.io](https://style-forge.github.io/themes/)
 
-## Contributing
+## Support the project ⭐
 
-We welcome contributions from the community! Please follow these steps to contribute:
+If you feel awesome and want to support us in a small way, please consider starring and sharing the repo! This helps us getting known and grow the community. 🙏
 
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/branch-name`.
-3. Make your changes and commit them: `git commit -am 'Add some feature'`.
-4. Push your changes to the forked repository: `git push origin feature/branch-name`.
-5. Create a pull request in the original repository.
-
-For more detailed information, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+<img src="https://github.com/style-forge/hub/raw/main/public/github-star.gif" alt="style-forge-star" />
 
 ## Modules
 
@@ -74,10 +64,18 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
   </tr>
 </table>
 
-## Authors
+## Contributing
 
-- **Dmitrii Sagalov** - *Expert in interface development* - [Sarmaged](https://github.com/Sarmaged)
+We welcome contributions from the community! Please follow these steps to contribute:
 
-## Contact
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/branch-name`.
+3. Make your changes and commit them: `git commit -am 'Add some feature'`.
+4. Push your changes to the forked repository: `git push origin feature/branch-name`.
+5. Create a pull request in the original repository.
 
-If you have any questions or suggestions, please open an issue in [Issues](https://github.com/Style-Forge/themes/issues).
+For more detailed information, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
