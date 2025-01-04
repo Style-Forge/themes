@@ -1,0 +1,22 @@
+html.var {
+  color: hsl(0, 0%, 10%);
+  background: hsl(0, 0%, 100%);
+}
+html.var a { color: hsl(225, 73%, 57%) }
+html.var pre { background: hsl(0, 0%, 90%) }
+
+html.var[data-theme='dark'], html.var.dark {
+  color: hsl(0, 0%, 90%);
+  background: hsl(0, 0%, 10%);
+}
+html.var[data-theme='dark'] pre, html.var.dark pre { background: hsl(0, 0%, 20%) }
+html.var[data-theme='dark'] ::backdrop, html.var.dark ::backdrop { --sf-c-backdrop: hsla(0, 0%, 100%, 0.2) }
+
+@media (prefers-color-scheme: dark) {
+  html.var[data-theme='auto'], html.var.auto {
+    color: hsl(0, 0%, 90%);
+    background: hsl(0, 0%, 10%);
+  }
+  html.var[data-theme='auto'] pre, html.var.auto pre { background: hsl(0, 0%, 20%) }
+  html.var[data-theme='auto'] ::backdrop, html.var.auto ::backdrop { --sf-c-backdrop: hsla(0, 0%, 100%, 0.2) }
+}
