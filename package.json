@@ -1,6 +1,6 @@
 {
   "name": "style-forge.themes",
-  "version": "2025.1.8",
+  "version": "2025.1.18",
   "description": "Style-Forge.Themes: powerful tool for managing and applying customizable themes in web applications.",
   "type": "module",
   "main": "themes.css",
